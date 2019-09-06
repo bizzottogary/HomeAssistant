@@ -1,5 +1,5 @@
 {
-  "credential_secret": "hassio1234",
+  "credential_secret": !secret nodered,
   "dark_mode": true,
   "http_node": {
     "username": "",
